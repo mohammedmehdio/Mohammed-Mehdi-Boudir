@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammed mehdi boudir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed mehdi boudir" height="30" width="40" /></a>
 <a href="https://instagram.com/medlo_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medlo_o" height="30" width="40" /></a>
-<a href="https://medium.com/@mehdi1.618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehdi1.618" height="30" width="40" /></a>
+<a href="https://medium.com/@mehdi1.618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Mohammed Mehdi Boudir" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/P9BDue8Gxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/P9BDue8Gxy" height="30" width="40" /></a>
 </p>
 
