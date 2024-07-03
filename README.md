@@ -1,6 +1,11 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/054/346/919/original/pochekunina-yana-.gif?1664327052)](https://github.com/Mohammed-Mehdi-Boudir)
-<h1 align="center">Hi 👋, I'm Mohammed Mehdi Boudir</h1>
-<h2 align="center">A passionate FrontEnd developer from Morocco</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  I'm a passionate FrontEnd developer from Morocco
+</h1>
+
 
 
 - 🌱 I’m currently learning  **Js , laravel**
@@ -9,7 +14,6 @@
 
 - 📫 How to reach me   **mehdi2005bd@gmail.com**
 
-- ⚡ Fun fact   **I use arch BTW**
 
 ---
 <br>
@@ -27,8 +31,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mehdi-Boudir&show_icons=true&locale=en" alt="mehdillo" /></p>
-<p><img  width="470px" height="450px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Mehdi-Boudir&show_icons=true&locale=en&layout=compact" alt="mehdillo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mehdi-Boudir&" alt="mehdillo" /></p>
+<img alt="Mohammed-Mehdi-Boudir's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mohammed-Mehdi-Boudir&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Mohammed-Mehdi-Boudir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mehdi-Boudir&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+![Mohammed-Mehdi-Boudir's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mehdi-Boudir&theme=tokyonight)
 
