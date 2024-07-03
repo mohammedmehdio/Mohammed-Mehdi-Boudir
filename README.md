@@ -32,7 +32,7 @@
 <br>
 
 
-<img alt="Mohammed-Mehdi-Boudir's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mohammed-Mehdi-Boudir&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Mohammed-Mehdi-Boudir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mehdi-Boudir&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Mohammed-Mehdi-Boudir's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mohammed-Mehdi-Boudir&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px"/><img alt="Mohammed-Mehdi-Boudir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mehdi-Boudir&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 ![Mohammed-Mehdi-Boudir's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mehdi-Boudir&theme=tokyonight)
 
