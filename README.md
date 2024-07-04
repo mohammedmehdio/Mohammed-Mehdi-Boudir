@@ -2,19 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=gradient&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World+!+...;Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+..&hearts;"></a>
+</p>
+
 <h1 align="center">
   I'm a passionate FrontEnd developer from Morocco
 </h1>
+<br>
 
-
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning  **Js , laravel**
 
 - 💬 Ask me about   **Sql , CSS**
 
-- 📫 How to reach me   **mehdi2005bd@gmail.com**
+- 📫 How to reach me   **mehdi2005bd@gmail.com or mohammed-mehdi.boudir@uit.ac.ma**
 
-
+<br>
 
 ----
 <br>
