@@ -10,9 +10,11 @@
   I'm a passionate FrontEnd developer from Morocco
 </h1>
 <br>
+<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
 
 - 🌱 I’m currently learning  **: Js & php**
 
@@ -24,7 +26,7 @@
 
   
 
-<br>
+
 
 ----
 <br>
@@ -32,16 +34,16 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-
+<br>
       
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,mysql,sqlserver,oracle,vscode,clion,phpstorm,datagrip" /><br> 
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br> 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,react,php,laravel,c,cpp,python,java" />
      
   </a>
 </p>    
-
+<br>
 
 
 
