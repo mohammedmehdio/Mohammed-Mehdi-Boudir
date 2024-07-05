@@ -11,13 +11,18 @@
 </h1>
 <br>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning  **Js , laravel**
+- 🌱 I’m currently learning  **: Js & php**
 
-- 💬 Ask me about   **Sql , CSS**
+- 💬 Ask me about   **: Sql & CSS**
+  
+- 💻 My favorite OS  **: Windows & Arch**
 
-- 📫 How to reach me   **mehdi2005bd@gmail.com**
+- 📫 How to reach me   **:  mehdi2005bd@gmail.com**
+
+  
 
 <br>
 
